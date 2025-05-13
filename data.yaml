@@ -1,0 +1,34 @@
+images: C:/Users/danie/PycharmProjects/mymodel2/dataset_split/images/all
+labels: C:/Users/danie/PycharmProjects/mymodel2/dataset_split/labels/all
+
+nc: 28  # Number of classes
+names: [
+  "court",
+  "building_52",
+  "building_5153",
+  "building_54",
+  "building_55",
+  "building_56",
+  "building_58",
+  "building_60",
+  "building_1",
+  "building_2",
+  "building_3",
+  "building_4",
+  "building_5",
+  "building_6",
+  "building_7",
+  "building_8",
+  "building_9",
+  "building_10",
+  "building_11",
+  "building_3a",
+  "building_ac",
+  "building_21",
+  "building_20",
+  "soccer_field",
+  "building_police",
+  "gate_uppercampus",
+  "building_29",
+  "building_30"
+]
